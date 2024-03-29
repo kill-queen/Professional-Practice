@@ -1,4 +1,3 @@
-from 
 def main():
     # 单例模式示例
     singleton1 = Singleton()
